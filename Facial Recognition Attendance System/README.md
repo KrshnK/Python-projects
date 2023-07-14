@@ -21,3 +21,25 @@ The following technologies and libraries are used in this project:
 - dlib
 - face_recognition
 - numpy
+
+## Usage
+
+To use the Facial Recognition Attendance application, follow these steps:
+
+1. Clone the repository to your local machine:
+
+        git clone https://github.com/Krishna01work/Python-projects.git
+
+2. Navigate to the "" project directory:
+
+        cd Python-projects/Facial\ Recognition\ Attendance\ System
+3. Install the required dependencies:
+
+        
+4. Run the `facial_recogn.py` file:
+       
+        python facial_recogn.py
+
+5. Follow the instructions on the command-line interface.
+
+Feel free to modify and customize the project according to your needs.
