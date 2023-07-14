@@ -1,4 +1,4 @@
-# Project 1: Weather Info
+# Project : Weather Info
 
 Welcome to the Weather Info project! This project provides a Python script that retrieves weather information for a specified location using an API.
 
