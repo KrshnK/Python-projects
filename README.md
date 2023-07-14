@@ -18,10 +18,10 @@ The Python-projects repository is a showcase of various Python projects develope
 
 Here are some of the projects included in this repository:
  <p align='left'><a href='Facial Recognition Attendance System'><b>Facial Recongnition Attendance System</b></a></p>
- <p align='left'><a href='PDF Merger#README'><b>PDF Merger</b></a></p>
- <p align='left'><a href='Robo Speaker#README'><b>Robo Speaker</b></a></p>
- <p align='left'><a href='image resizer#README'><b>image resizer</b></a></p>
- <p align='left'><a href='weather info#README'><b>weather info</b></a></p>
+ <p align='left'><a href='PDF Merger'><b>PDF Merger</b></a></p>
+ <p align='left'><a href='Robo Speaker'><b>Robo Speaker</b></a></p>
+ <p align='left'><a href='image resizer'><b>image resizer</b></a></p>
+ <p align='left'><a href='weather info'><b>weather info</b></a></p>
 
 ## Getting Started
 
