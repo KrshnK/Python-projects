@@ -28,11 +28,11 @@ To use the PDF Merger application, follow these steps:
         cd Python-projects/PDF\ Merger
 3. Install the required dependencies:
 
-        pip install pyttsx3
+        pip install PyPDF2
 4. Run the `pdf_merger.py` file:
        
         python pdf_merger.py
 
-5. Follow the instructions on the command-line interface to enter the text you want to convert into speech.
+5. Follow the instructions on the command-line interface.
 
 Feel free to modify and customize the project according to your needs.
