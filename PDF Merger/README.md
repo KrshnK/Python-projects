@@ -1,4 +1,4 @@
-# Project 1: PDF Merger
+# Project : PDF Merger
 
 The PDF Merger project is a Python script that allows you to merge multiple PDF files into a single PDF document. It utilizes the PyPDF2 library to handle PDF operations.
 
