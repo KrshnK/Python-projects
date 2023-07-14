@@ -35,11 +35,14 @@ To use the Facial Recognition Attendance application, follow these steps:
         cd Python-projects/Facial\ Recognition\ Attendance\ System
 3. Install the required dependencies:
 
-        
-4. Run the `facial_recogn.py` file:
+       pip install face-recognition
+       pip install opencv-python
+       pip install numpy
+       pip install cmake
+5. Run the `facial_recogn.py` file:
        
         python facial_recogn.py
 
-5. Follow the instructions on the command-line interface.
+6. Follow the instructions on the command-line interface.
 
 Feel free to modify and customize the project according to your needs.
