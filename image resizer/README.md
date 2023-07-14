@@ -15,7 +15,7 @@ To use the Image Resizer, follow these steps:
 
 1. Install Python: Make sure you have Python installed on your system. You can download Python from the official website: [https://www.python.org](https://www.python.org)
 
-2. Install Pillow Library: The Image Resizer tool relies on the Pillow library for image processing. You can install it using the following command:
+2. Install OpenCV Library: The Image Resizer tool relies on the OpenCV library for image processing. You can install it using the following command:
 
        pip install opencv-python
 
