@@ -30,7 +30,7 @@ To use the Facial Recognition Attendance application, follow these steps:
 
         git clone https://github.com/Krishna01work/Python-projects.git
 
-2. Navigate to the "" project directory:
+2. Navigate to the "Facial Recognition Attendance System" project directory:
 
         cd Python-projects/Facial\ Recognition\ Attendance\ System
 3. Install the required dependencies:
