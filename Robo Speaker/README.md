@@ -33,7 +33,7 @@ To use the Robo Speaker application, follow these steps:
         pip install pyttsx3
 4. Run the `robo_speaker.py` file:
        
-        python robo_speaker.py
+        python robo_speak.py
 
 5. Follow the instructions on the command-line interface to enter the text you want to convert into speech.
 
