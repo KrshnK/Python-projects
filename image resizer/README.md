@@ -1,4 +1,4 @@
-# Project 1: Image Resizer
+# Project : Image Resizer
 
 This project is an image resizer tool developed by Krishna01work. It allows you to resize images to a specified width and height.
 
