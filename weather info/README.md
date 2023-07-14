@@ -27,3 +27,4 @@ To use the Weather Info project, follow these steps:
 
 3. Run the Python script:
 
+                puyhon weather.py
