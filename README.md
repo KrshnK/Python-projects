@@ -1,6 +1,6 @@
 # Python-projects
 
-Welcome to the Python-projects repository! This repository contains a collection of Python projects created by Krishna01work.
+Welcome to the Python-projects repository! This repository contains a collection of Python projects created by KrshnK.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to the Python-projects repository! This repository contains a collection
 
 ## Description
 
-The Python-projects repository is a showcase of various Python projects developed by Krishna01work. These projects cover a wide range of topics and aim to demonstrate different aspects of Python programming.
+The Python-projects repository is a showcase of various Python projects developed by KrshnK. These projects cover a wide range of topics and aim to demonstrate different aspects of Python programming.
 
 ## Projects
 
