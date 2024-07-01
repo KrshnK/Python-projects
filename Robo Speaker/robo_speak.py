@@ -56,7 +56,7 @@ try: # Add error handling
         engine.say("Enter what you want to say")
         engine.runAndWait()
         engine.stop()
-        
+
         # Start the while loop to get user input and speak it out
         while s:
                x=input("Enter what you want to say : ")
@@ -85,6 +85,6 @@ try: # Add error handling
                      break
                 else:
                      pass
-       
+
 except Exception as e:
    print(f"Some error occurred : {e}")
