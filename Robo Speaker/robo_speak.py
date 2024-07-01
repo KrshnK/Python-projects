@@ -83,7 +83,6 @@ try: # Add error handling
                 if q in ('y', 'Y'):
                      engine.stop()
                      break
-                pass
 
 except Exception as e:
    print(f"Some error occurred : {e}")
