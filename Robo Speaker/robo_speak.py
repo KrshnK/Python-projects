@@ -80,7 +80,7 @@ try: # Add error handling
                # Break the loop if user enters 'Q'
                if(x=="Q"):
                 q=str(input("Do you want to exit?(Y/N) : "))
-                if(q=='y'or q=='Y'):
+                if q in ('y', 'Y'):
                      engine.stop()
                      break
                 else:
